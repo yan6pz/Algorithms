@@ -1,6 +1,8 @@
-Frog leap puzzle(dfs implementation)
+<pre>
+Frog leap puzzle(DFS implementation)
 NPuzzle(A*)
-NQueens(min conflicts-Constraint satisfaction)
+NQueens(Min conflicts-Constraint satisfaction)
 Travelling Salesman(Genetic algorithm)
-Tic-Tac-Toe(Min max with alpha beta cutoffs)
-Knn(classification algorithm)
+Tic-Tac-Toe(Min-max with alpha beta cutoffs)
+Knn(K-nearest neighbour-Classification algorithm)
+</pre>
