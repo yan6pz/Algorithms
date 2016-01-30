@@ -1,0 +1,6 @@
+c:\users\jiany\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\bin\Debug\SymbolTable.exe.config
+c:\users\jiany\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\bin\Debug\SymbolTable.exe
+c:\users\jiany\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\bin\Debug\SymbolTable.pdb
+c:\users\jiany\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\obj\Debug\SymbolTable.csprojResolveAssemblyReference.cache
+c:\users\jiany\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\obj\Debug\SymbolTable.exe
+c:\users\jiany\documents\visual studio 2012\Projects\SymbolTable\SymbolTable\obj\Debug\SymbolTable.pdb
