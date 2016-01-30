@@ -1,0 +1,9 @@
+c:\users\yanis\documents\visual studio 2015\Projects\Knn\Knn\bin\Debug\Knn.exe.config
+c:\users\yanis\documents\visual studio 2015\Projects\Knn\Knn\obj\Debug\Knn.csprojResolveAssemblyReference.cache
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\Knn\bin\Debug\SampleFiles\tiny.arff
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\Knn\bin\Debug\Knn.exe
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\Knn\bin\Debug\Knn.pdb
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\Knn\bin\Debug\ArffSharp.dll
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\Knn\bin\Debug\ArffSharp.pdb
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\Knn\obj\Debug\Knn.exe
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\Knn\obj\Debug\Knn.pdb

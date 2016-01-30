@@ -1,0 +1,8 @@
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\ArffReader\bin\Debug\SampleFiles\tiny.arff
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\ArffReader\bin\Debug\ArffSharp.dll
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\ArffReader\bin\Debug\ArffSharp.pdb
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\ArffReader\obj\Debug\ArffSharp.csprojResolveAssemblyReference.cache
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\ArffReader\obj\Debug\ArffSharp.Csv.Resources.ExceptionMessage.resources
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\ArffReader\obj\Debug\ArffSharp.csproj.GenerateResource.Cache
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\ArffReader\obj\Debug\ArffSharp.dll
+C:\Users\yanis\Documents\Visual Studio 2015\Projects\Knn\ArffReader\obj\Debug\ArffSharp.pdb
