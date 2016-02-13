@@ -13,3 +13,20 @@ Undirected graph G with n vertices and n-1 edges. The graph is connected and len
  <b>Output </b>
 
 On a single line of standard output to display searched diameter
+
+<b>Example input:</b>
+
+10 
+4 5 5 
+4 3 2 
+4 2 1 
+5 6 4 
+5 1 0 
+5 7 4 
+3 8 4 
+3 9 3 
+3 10 3 
+
+<b>Example output:</b>
+
+15

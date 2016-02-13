@@ -11,3 +11,16 @@ Following Q lines, i-th row of which contains a number qi - Minimum price that 
 The output consists of Q  lines, each of which contains a number pi
   - the most left position for which a[pi] + ... + a[pi + K - 1] Is at least qi.
  If no such Position display -1.
+ 
+<b>Example input:</b>
+ 
+4 3 3
+3 4 0 5
+5
+9
+100
+
+<b>Example Output:</b>
+0
+1
+-1
