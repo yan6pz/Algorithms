@@ -15,14 +15,16 @@ The output consists of Q  lines, each of which contains a number pi
  If no such Position display -1.
  
 <b>Example input:</b>
- 
+ <pre>
 4 3 3
 3 4 0 5
 5
 9
 100
-
+</pre>
 <b>Example Output:</b>
+<pre>
 0
 1
 -1
+</pre>

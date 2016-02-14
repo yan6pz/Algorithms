@@ -15,13 +15,15 @@ the minimum number of different ways it can be achieved. Two ways are considered
  "-1" and a number of roads - "0".
 
 <b>Limitations</b>
-
+<pre>
  2 ≤ N ≤ 100,000
  1 ≤ M ≤ 500,000
  1 ≤ Pi ≤ 1,000,000,000
  1 ≤ Fi, Ti ≤ N
+ </pre>
  
 </b>Example input:</b>
+<pre>
 5 6 
 1 2 10 
 1 4 29 
@@ -29,6 +31,9 @@ the minimum number of different ways it can be achieved. Two ways are considered
 4 3 13 
 4 5 24 
 3 5 11 
+</pre>
 
 </b>Example Output:</b>
+<pre>
 53 2 
+</pre>
