@@ -25,13 +25,16 @@ The first line of standard output maximum number of people who the guide
  If it is not possible to visit all the islands via bridges print -1.
  
 <b>Example Input:</b>
+<pre>
 3   
 3
 1   2   100  3
 2   3   200  10
 3   1   100  5
+</pre>
 
 <b>Example Output:</b>
+<pre>
 2
-
+</pre>
 i.e. the guide can take maximum 2 people with him.
