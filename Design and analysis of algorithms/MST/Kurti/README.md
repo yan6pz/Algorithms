@@ -17,11 +17,11 @@ Write a program that fills the truck with maximum amount of elements so that it 
  restrictions on the road.
 
  <b>Restrictions</b>
- <pre>
- 0 <n ≤ 1000,
- 0 <m ≤ 50000
- 1 ≤ a, b ≤ n,
- (a ≠ b) 1 ≤ d ≤ 1000
+ <pre><code>
+  0 < n <= 1000,
+  0 < m <= 50000
+  1 <= a, b <= n,
+  (a != b) 1 <= d <= 1000</code>
  </pre>
  
  <b>Example Input</b>
