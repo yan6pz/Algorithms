@@ -28,3 +28,7 @@ Given is a square matrix Mnxn of integers.
 4 7 -15 
 3 6 11 
 </pre>
+ <b>Example Output</b>
+ <pre>
+20
+</pre>
